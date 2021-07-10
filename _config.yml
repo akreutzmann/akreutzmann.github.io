@@ -9,7 +9,7 @@ permalink:        pretty
 # Setup
 title:            emdi
 tagline:          'An R package for estimating and mapping disaggregated indicators'
-description:      'Here follows a short description' #'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+description:      'Estimating and Mapping Disaggregated Indicators' #'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
 url:              http://akreutzmann.github.io
 baseurl:          
 
