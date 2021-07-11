@@ -1,0 +1,37 @@
+I"™	<p>The R package <a href="https://cran.r-project.org/web/packages/emdi/index.html"><strong>emdi</strong></a> provides a large collection of small area estimation methods. The package documentation and the vignettes serve the purpose to explain the available methods and/or to shows the functionality. This page will offer small examples for specific applications.</p>
+
+<p>For the most recent technical and methodological updates, <strong>emdi</strong> is available on <a href="https://github.com/SoerenPannier/emdi">GitHub</a>.</p>
+
+<h3 id="overview">Overview</h3>
+
+<p>The methods implemented in <strong>emdi</strong> can be classified into following categories:</p>
+<ul>
+  <li>Direct estimation</li>
+  <li>Area-level models</li>
+  <li>Unit-level models</li>
+</ul>
+
+<p>While direct estimation is provided, the focus of the package are the small area estimation methods. Therefore, the following descriptions will focus on the small area estimation methods.</p>
+
+<h4 id="area-level-models">Area-level models</h4>
+
+<p>With function <code>fh</code>, package <strong>emdi</strong> provides a large range of area-level models basically following the idea of <a href="https://www.jstor.org/stable/2286322?seq=1#metadata_info_tab_contents">Fay and Herriot (1979)</a>. The function includes following modelling options:</p>
+
+<ul>
+  <li>Basic area-level model</li>
+  <li>Transformations: log and arcsin</li>
+  <li>Spatial correlation</li>
+  <li>Robust estimation</li>
+  <li>Measurement errors</li>
+</ul>
+
+<h4 id="unit-level-models">Unit-level models</h4>
+
+<p>Most unit-level models are based on the model proposed by <a href="https://www.jstor.org/stable/2288915?seq=1#metadata_info_tab_contents">Battese, Harter and Fuller (1988)</a>. So far, the package provides some variations of the empirical best prediction (EBP) approach proposed by <a href="https://www.jstor.org/stable/27896031?seq=1#metadata_info_tab_contents">Molina and Rao (2010)</a>:</p>
+
+<ul>
+  <li>Census EBP approach (mentioned in <a href="https://www.researchgate.net/publication/304826774_A_comparison_of_small_area_estimation_methods_for_poverty_mapping">Guadarrama et al. 2016</a>)</li>
+  <li>Data-driven transformations for the EBP (<a href="https://rss.onlinelibrary.wiley.com/doi/abs/10.1111/rssa.12488">Rojas et al. 2020</a>)</li>
+  <li>EBP under informative sampling (<a href="https://www.sciencedirect.com/science/article/abs/pii/S0167947317302517">Guadarrama et al. 2018</a>)</li>
+</ul>
+:ET

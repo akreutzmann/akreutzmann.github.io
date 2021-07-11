@@ -1,0 +1,13 @@
+I"›<p>The R package emdi is also basis for some published papers that will be introduced in the following.</p>
+
+<h3 id="the-r-package-emdi-for-estimating-and-mapping-regionally-disaggregated-indicators">The R Package emdi for Estimating and Mapping Regionally Disaggregated Indicators</h3>
+
+<p>The first publication about package emdi introduces the direct estimation and the first version of function <code>ebp</code> that enables the empirical best prediction approach. It also explains the idea of the package to be as user-friendly as possible in order to make small area estimation available to a wide range of practicioners.</p>
+
+<p>The paper is published in the <a href="https://www.jstatsoft.org/article/view/v091i07">Journal of Statistical Software</a>.</p>
+
+<h3 id="a-framework-for-producing-small-area-estimates-based-on-area-level-models-in-r">A Framework for Producing Small Area Estimates Based on Area-Level Models in R</h3>
+
+<p>The second paper (not yet published) explains the steps to produce domain estimates with area-level models. The necessary steps are explained along the basic area-level model but also the specifications for the extensions are shown.</p>
+
+:ET
