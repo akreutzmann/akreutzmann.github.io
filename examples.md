@@ -5,6 +5,8 @@ title: Examples
 
 This page will provide some examples that show how to use the functions provided in emdi. The exampels are sorted by the model class and are also available on [GitHub](https://github.com/akreutzmann/emdi-examples).
 
+
+
 ## Area-level models
 
 ### Basic area-level model 
