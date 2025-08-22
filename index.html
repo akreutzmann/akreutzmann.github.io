@@ -3,6 +3,8 @@ layout: page
 title: Home
 ---
 
+{% assign post = site.posts | where: "title", "emdi - The R package for estimating and mapping disaggregated indicators" | first %}
+
 <div class="posts">
   {% for post in paginator.posts %}
   <div class="post">
