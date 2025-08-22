@@ -13,5 +13,8 @@ The paper is published in the [Journal of Statistical Software](https://www.jsta
 
 ### A Framework for Producing Small Area Estimates Based on Area-Level Models in R
 
-The second paper (not yet published) explains the steps to produce domain estimates with area-level models. The necessary steps are explained along the basic area-level model but also the specifications for the extensions are shown. 
+The second paper explains the steps to produce domain estimates with area-level models. The necessary steps are explained along the basic area-level model but also the specifications for the extensions are shown. 
+
+The paper is published in the [The R Journal](https://journal.r-project.org/articles/RJ-2023-039/).
+
 
